@@ -5,9 +5,9 @@ This plugin uses the opennlp project to extract named entities from an indexed f
 Add the configuration
 
 ```
-opennlp.models.name.file: /path/to/elasticsearch-0.20.5/models/en-ner-person.bin
-opennlp.models.date.file: /path/to/elasticsearch-0.20.5/models/en-ner-date.bin
-opennlp.models.location.file: /path/to/elasticsearch-0.20.5/models/en-ner-location.bin
+opennlp.models.name.file: /path/to/elasticsearch-1.4.4/models/en-ner-person.bin
+opennlp.models.date.file: /path/to/elasticsearch-1.4.4/models/en-ner-date.bin
+opennlp.models.location.file: /path/to/elasticsearch-1.4.4/models/en-ner-location.bin
 ```
 
 Add a mapping
